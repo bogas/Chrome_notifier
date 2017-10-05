@@ -1,0 +1,3 @@
+1. Klik w przycisk zapamietuje skrot danej strony w pliku
+2. Co interwal skrot jest obliczany i porownywany
+3. W razie niezgodnosci zapala sie przycisk
